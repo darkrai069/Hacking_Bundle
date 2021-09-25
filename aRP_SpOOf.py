@@ -75,5 +75,7 @@ except KeyboardInterrupt:
     restore(value.vip, value.tip)
     restore(value.tip, value.vip)
 
+# BEFORE EXECUTING THE CODE, GO TO THE TERMINAL AND EXECUTE THE FOLLOWING COMMAND
+
 # To Cut Internet of Victim :- echo 0 > /proc/sys/net/ipv4/ip_forward
 # ARP_SPOOF with Internet connection :- echo 1 > /proc/sys/net/ipv4/ip_forward
