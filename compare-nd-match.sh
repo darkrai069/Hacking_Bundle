@@ -74,5 +74,5 @@ then
 	echo "[-] No Matching Results on $2"
 fi
 
-rm $1 $x/default.txt
-rm $2 $x/match.txt
+rm $x/default.txt
+rm $x/match.txt
